@@ -1,7 +1,7 @@
 {
     "app-id": "io.github.unrud.RecentFilter",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "45",
+    "runtime-version": "46",
     "sdk": "org.gnome.Sdk",
     "command": "recent-filter",
     "finish-args": [
@@ -32,8 +32,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/Unrud/recent-filter",
-                    "tag": "v0.1.4",
-                    "commit": "3109f5bd87f9abb036d8fad75104cebd5574f419",
+                    "tag": "v0.1.5",
+                    "commit": "ee0ceadd1c047fdf408f861d6fdf8151a31a813c",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://api.github.com/repos/Unrud/recent-filter/releases/latest",
