@@ -32,8 +32,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/Unrud/recent-filter",
-                    "tag": "v0.1.5",
-                    "commit": "ee0ceadd1c047fdf408f861d6fdf8151a31a813c",
+                    "tag": "v0.1.6",
+                    "commit": "641922609316101ed83a1c6ed873135169594dc1",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://api.github.com/repos/Unrud/recent-filter/releases/latest",
